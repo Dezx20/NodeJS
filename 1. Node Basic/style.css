@@ -1,0 +1,511 @@
+.design {
+  /* No-Groups-Found */
+
+  position: absolute;
+  width: 219.43px;
+  height: 240px;
+  left: 726px;
+  top: 307px;
+
+  /* Base */
+
+  position: absolute;
+  left: 50.42%;
+  right: 34.35%;
+  top: 34.11%;
+  bottom: 39.22%;
+
+  mix-blend-mode: normal;
+  opacity: 0;
+
+  /* Art */
+
+  position: absolute;
+  width: 196.74px;
+  height: 187.49px;
+  left: 737.66px;
+  top: 333.06px;
+
+  /* Blob-shape */
+
+  position: absolute;
+  left: 51.23%;
+  right: 35.11%;
+  top: 37.01%;
+  bottom: 42.9%;
+
+  background: #ffffff;
+
+  /* Elements */
+
+  position: absolute;
+  width: 178.97px;
+  height: 151.85px;
+  left: 743.82px;
+  top: 368.7px;
+
+  /* Hue03 */
+
+  position: absolute;
+  left: 63.8%;
+  right: 35.92%;
+  top: 45.34%;
+  bottom: 54.2%;
+
+  /* Gray 3 */
+  background: #828282;
+
+  /* Hue02 */
+
+  position: absolute;
+  left: 58.04%;
+  right: 41.49%;
+  top: 57.08%;
+  bottom: 42.16%;
+
+  /* Gray 5 */
+  background: #e0e0e0;
+
+  /* Hue01 */
+
+  position: absolute;
+  left: 51.65%;
+  right: 47.87%;
+  top: 46.49%;
+  bottom: 52.75%;
+
+  /* Gray 2 */
+  background: #4f4f4f;
+
+  /* Dotted */
+
+  position: absolute;
+  left: 53.02%;
+  right: 43.1%;
+  top: 50.82%;
+  bottom: 44.56%;
+
+  background: #282828;
+
+  /* Path 1 */
+
+  position: absolute;
+  left: 53.18%;
+  right: 46.67%;
+  top: 50.82%;
+  bottom: 48.93%;
+
+  /* Path 1 */
+
+  position: absolute;
+  left: 53.02%;
+  right: 46.8%;
+  top: 51.55%;
+  bottom: 47.47%;
+
+  /* Path 1 */
+
+  position: absolute;
+  left: 53.19%;
+  right: 46.44%;
+  top: 53.03%;
+  bottom: 46.05%;
+
+  /* Path 1 */
+
+  position: absolute;
+  left: 56.38%;
+  right: 43.1%;
+  top: 54.21%;
+  bottom: 45.09%;
+
+  /* Path 1 */
+
+  position: absolute;
+  left: 53.73%;
+  right: 45.74%;
+  top: 54.29%;
+  bottom: 45.02%;
+
+  /* Path 1 */
+
+  position: absolute;
+  left: 55.49%;
+  right: 43.9%;
+  top: 55.02%;
+  bottom: 44.58%;
+
+  /* Path 1 */
+
+  position: absolute;
+  left: 54.55%;
+  right: 44.84%;
+  top: 55.06%;
+  bottom: 44.56%;
+
+  /* Bling */
+
+  position: absolute;
+  width: 24.48px;
+  height: 21.93px;
+  left: 884.46px;
+  top: 370.41px;
+
+  transform: rotate(-4deg);
+
+  /* Rectangle 2 */
+
+  position: absolute;
+  left: 62.48%;
+  right: 36.67%;
+  top: 43.48%;
+  bottom: 56.21%;
+
+  background: #282828;
+  border-radius: 2px;
+  transform: matrix(0.84, -0.54, -0.54, -0.84, 0, 0);
+
+  /* Rectangle 2 */
+
+  position: absolute;
+  left: 61.48%;
+  right: 37.67%;
+  top: 42.49%;
+  bottom: 57.2%;
+
+  background: #282828;
+  border-radius: 2px;
+  transform: rotate(-82deg);
+
+  /* Rectangle 2 */
+
+  position: absolute;
+  left: 61.99%;
+  right: 37.16%;
+  top: 42.71%;
+  bottom: 56.98%;
+
+  background: #282828;
+  border-radius: 2px;
+  transform: rotate(-62deg);
+
+  /* Main */
+
+  position: absolute;
+  width: 140.84px;
+  height: 87.37px;
+  left: 763.91px;
+  top: 377.64px;
+
+  /* Change-Color */
+
+  position: absolute;
+  left: 53.05%;
+  right: 37.44%;
+  top: 42.34%;
+  bottom: 48.33%;
+
+  /* Gray 5 */
+  background: #e0e0e0;
+
+  /* Oval 10 */
+
+  position: absolute;
+  left: 59.77%;
+  right: 38.32%;
+  top: 43.7%;
+  bottom: 53.25%;
+
+  /* Combined Shape */
+
+  position: absolute;
+  left: 59.57%;
+  right: 37.44%;
+  top: 46.87%;
+  bottom: 48.64%;
+
+  /* Combined Shape */
+
+  position: absolute;
+  left: 58.85%;
+  right: 41.04%;
+  top: 48.62%;
+  bottom: 49.21%;
+
+  /* Oval 10 */
+
+  position: absolute;
+  left: 55.83%;
+  right: 42.26%;
+  top: 43.7%;
+  bottom: 53.25%;
+
+  transform: matrix(-1, 0, 0, 1, 0, 0);
+
+  /* Combined Shape */
+
+  position: absolute;
+  left: 53.05%;
+  right: 43.96%;
+  top: 46.87%;
+  bottom: 48.79%;
+
+  /* Combined Shape */
+
+  position: absolute;
+  left: 56.7%;
+  right: 43.25%;
+  top: 48.62%;
+  bottom: 49.21%;
+
+  /* Oval 10 */
+
+  position: absolute;
+  left: 56.65%;
+  right: 40.97%;
+  top: 42.34%;
+  bottom: 53.84%;
+
+  /* Rectangle 12 */
+
+  position: absolute;
+  left: 55.57%;
+  right: 39.87%;
+  top: 46.31%;
+  bottom: 48.33%;
+
+  /* Left */
+
+  position: absolute;
+  width: 40.12px;
+  height: 66.88px;
+  left: 808.84px;
+  top: 389.9px;
+
+  transform: matrix(-1, 0, 0, 1, 0, 0);
+
+  /* Vector */
+
+  position: absolute;
+  left: 56.17%;
+  right: 41.92%;
+  top: 43.32%;
+  bottom: 53.64%;
+
+  background: #282828;
+  transform: matrix(-1, 0, 0, 1, 0, 0);
+
+  /* Path 1 */
+
+  position: absolute;
+  left: 56.17%;
+  right: 41.92%;
+  top: 43.32%;
+  bottom: 53.64%;
+
+  transform: matrix(-1, 0, 0, 1, 0, 0);
+
+  /* Path 1 */
+
+  position: absolute;
+  left: 56.05%;
+  right: 42.26%;
+  top: 43.5%;
+  bottom: 53.82%;
+
+  transform: matrix(-1, 0, 0, 1, 0, 0);
+
+  /* Vector */
+
+  position: absolute;
+  left: 56.1%;
+  right: 41.19%;
+  top: 46.49%;
+  bottom: 49.25%;
+
+  background: #282828;
+  transform: matrix(-1, 0, 0, 1, 0, 0);
+
+  /* Right */
+
+  position: absolute;
+  width: 40.12px;
+  height: 66.88px;
+  left: 864.64px;
+  top: 389.9px;
+
+  /* Vector */
+
+  position: absolute;
+  left: 60.04%;
+  right: 38.05%;
+  top: 43.32%;
+  bottom: 53.64%;
+
+  background: #282828;
+
+  /* Path 1 */
+
+  position: absolute;
+  left: 60.04%;
+  right: 38.05%;
+  top: 43.32%;
+  bottom: 53.64%;
+
+  /* Path 1 */
+
+  position: absolute;
+  left: 60.16%;
+  right: 38.16%;
+  top: 43.5%;
+  bottom: 53.82%;
+
+  /* Vector */
+
+  position: absolute;
+  left: 60.14%;
+  right: 37.17%;
+  top: 46.49%;
+  bottom: 49.25%;
+
+  background: #282828;
+
+  /* Middle */
+
+  position: absolute;
+  width: 65.57px;
+  height: 83.94px;
+  left: 804.17px;
+  top: 377.64px;
+
+  /* Vector */
+
+  position: absolute;
+  left: 56.92%;
+  right: 40.69%;
+  top: 41.96%;
+  bottom: 54.22%;
+
+  background: #282828;
+
+  /* Path 1 */
+
+  position: absolute;
+  left: 56.92%;
+  right: 40.69%;
+  top: 41.96%;
+  bottom: 54.22%;
+
+  /* Path 1 */
+
+  position: absolute;
+  left: 57.07%;
+  right: 40.84%;
+  top: 42.19%;
+  bottom: 54.45%;
+
+  /* Vector */
+
+  position: absolute;
+  left: 55.84%;
+  right: 39.6%;
+  top: 45.93%;
+  bottom: 48.71%;
+
+  background: #282828;
+
+  /* Path 1 */
+
+  position: absolute;
+  left: 55.84%;
+  right: 39.6%;
+  top: 45.93%;
+  bottom: 48.71%;
+
+  /* Path 1 */
+
+  position: absolute;
+  left: 55.99%;
+  right: 39.74%;
+  top: 46.16%;
+  bottom: 48.94%;
+
+  /* Cross */
+
+  position: absolute;
+  width: 54.28px;
+  height: 54.28px;
+  left: 811.31px;
+  top: 440.5px;
+
+  /* Mask */
+
+  position: absolute;
+  left: 56.34%;
+  right: 39.89%;
+  top: 48.94%;
+  bottom: 45.02%;
+
+  background: #ffffff;
+
+  /* Change-Color */
+
+  position: absolute;
+  left: 56.75%;
+  right: 40.3%;
+  top: 50.05%;
+  bottom: 45.22%;
+
+  /* Gray 2 */
+  background: #4f4f4f;
+
+  /* Vector */
+
+  position: absolute;
+  left: 56.75%;
+  right: 40.3%;
+  top: 49.52%;
+  bottom: 45.75%;
+
+  background: #282828;
+
+  /* Path 1 */
+
+  position: absolute;
+  left: 56.75%;
+  right: 40.3%;
+  top: 49.52%;
+  bottom: 45.75%;
+
+  /* Path 1 */
+
+  position: absolute;
+  left: 56.89%;
+  right: 40.44%;
+  top: 49.75%;
+  bottom: 45.98%;
+
+  /* Rec */
+
+  position: absolute;
+  left: 58.74%;
+  right: 41.12%;
+  top: 50.95%;
+  bottom: 46.61%;
+
+  background: #ffffff;
+  border-radius: 1.5px;
+  transform: rotate(45deg);
+
+  /* Rec */
+
+  position: absolute;
+  left: 57.76%;
+  right: 42.1%;
+  top: 50.95%;
+  bottom: 46.61%;
+
+  background: #ffffff;
+  border-radius: 1.5px;
+  transform: matrix(-0.71, 0.71, 0.71, 0.71, 0, 0);
+}
