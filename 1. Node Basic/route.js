@@ -43,13 +43,13 @@ const requestHandler = (req, res) => {
   res.end();
 };
 
-// module.exports = {
-//   handler: requestHandler,
-//   someText: "Some random stuff",
-// };
+module.exports = {
+  handler: requestHandler,
+  someText: "Some random stuff",
+};
 
 // module.exports.handler = requestHandler;
 // module.exports.someText = "some random stuff";
 
-exports.handler = requestHandler;
-exports.someText = "some random stuff";
+// exports.handler = requestHandler;
+// exports.someText = "some random stuff";
